@@ -1,0 +1,34 @@
+[
+  {
+    "Img": "../Assets/2c4ae82e-2c1b-41d5-a651-82189d1c8b2c.jpg",
+    "ImgTxt": "Deep Water",
+    "SmallTxt": "R-Rated Series",
+    "id": 1,
+    "Star": "Zoey Cleopatra",
+    "bcc": "#18191b"
+  },
+  {
+    "Img": "../Assets/download.jpg",
+    "ImgTxt": "LUCY",
+    "SmallTxt": "R-Rated Series",
+    "id": 2,
+    "Star": "Hailo Abacha",
+    "bcc": "#3380cd"
+  },
+  {
+    "Img": "../Assets/ff.jpg",
+    "ImgTxt": "The Assistant",
+    "SmallTxt": "R-Rated Series",
+    "id": 3,
+    "Star": "Sammy Dobu",
+    "bcc": "black"
+  },
+  {
+    "Img": "../Assets/dd.jpg",
+    "ImgTxt": "The Assistant",
+    "SmallTxt": "R-Rated Series",
+    "id": 4,
+    "Star": "Peters Wisdom",
+    "bcc": "black"
+  }
+]

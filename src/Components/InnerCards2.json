@@ -1,0 +1,34 @@
+[
+  {
+    "Img": "../Assets/19b9d405-40b2-483e-8e1f-e25fe10c7299.jpg",
+    "ImgTxt": "Never Alone",
+    "SmallTxt": "R-Rated Series",
+    "id": 1,
+    "Star": "Michael Jordan",
+    "bcc": "#483725"
+  },
+  {
+    "Img": "../Assets/4800d468-b587-44de-bad8-2646588bfa6b.jpg",
+    "ImgTxt": "NO EXIT",
+    "SmallTxt": "R-Rated Series",
+    "id": 2,
+    "Star": "Shaggy Poppy",
+    "bcc": "#0f1521"
+  },
+  {
+    "Img": "../Assets/c5fec97e-4c47-4b46-b19f-c246d461f6d0.jpg",
+    "ImgTxt": "Vacation Friends",
+    "SmallTxt": "R-Rated Series",
+    "id": 3,
+    "Star": "Adedeji Michael",
+    "bcc": "#fed862"
+  },
+  {
+    "Img": "../Assets/1105232.jpg",
+    "ImgTxt": "The Mad Max",
+    "SmallTxt": "R-Rated Series",
+    "id": 4,
+    "Star": "Hassan Sise",
+    "bcc": "#9f030c"
+  }
+]
